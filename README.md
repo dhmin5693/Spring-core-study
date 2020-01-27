@@ -48,4 +48,5 @@ Spring 핵심 모듈에 대해 공부한 내용입니다.
     - [링크](https://private-space.tistory.com/45)
 
 2. Bean 생성
-    - [링크](https://private-space.tistory.com/50)
+    1. 첫 번째 글 : [링크](https://private-space.tistory.com/50)
+    2. 두 번째 글 : [링크](https://private-space.tistory.com/71)
