@@ -42,7 +42,7 @@ Spring 핵심 모듈에 대해 공부한 내용입니다.
 12. Spring AOP
     - [링크](https://private-space.tistory.com/62)
 
-## Spring framework core 코드로 공부하기
+## Spring framework core 소스 코드 읽어보기
 
 1. 다운로드 및 빌드
     - [링크](https://private-space.tistory.com/45)
@@ -50,3 +50,4 @@ Spring 핵심 모듈에 대해 공부한 내용입니다.
 2. Bean 생성
     1. 첫 번째 글 : [링크](https://private-space.tistory.com/50)
     2. 두 번째 글 : [링크](https://private-space.tistory.com/71)
+    3. 세 번째 글 : [링크](https://private-space.tistory.com/85)
